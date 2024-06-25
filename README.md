@@ -1,2 +1,2 @@
 # Movie-Web-Site
-Using HTML, Bootstrap and JavaScript to build application
+Using HTML, Bootstrap and to build application
